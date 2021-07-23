@@ -4,9 +4,9 @@
 
 - User registration:
 
-  [ ] It isn't allowed to register more than one user with the same email
+  [x] It isn't allowed to register more than one user with the same email
 
-  [ ] It isn't allowed to register a user without email
+  [x] It isn't allowed to register a user without email
 
 
 - Tag registration:
