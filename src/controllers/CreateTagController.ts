@@ -1,5 +1,6 @@
-import { Request, Response } from 'express';
-import { CreateTagService } from '../service/CreateTagService';
+import { Request, Response } from "express";
+
+import { CreateTagService } from "../service/CreateTagService";
 
 class CreateTagController {
   async handle(request: Request, response: Response) {
