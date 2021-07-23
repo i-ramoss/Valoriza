@@ -1,8 +1,7 @@
 import { Router } from 'express';
 
-import { CreateUserController } from './controllers/CreateUserController';
 import { CreateTagController } from './controllers/CreateTagController';
-
+import { CreateUserController } from './controllers/CreateUserController';
 import { ensureAdmin } from './middlewares/ensureAdmin';
 
 const router = Router();

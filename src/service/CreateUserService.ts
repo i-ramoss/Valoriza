@@ -1,4 +1,5 @@
 import { getCustomRepository } from 'typeorm';
+
 import { UsersRepository } from '../repositories/UsersRepository';
 
 interface IUserRequest {
@@ -6,7 +7,6 @@ interface IUserRequest {
   email: string;
   admin?: boolean;
 }
-
 
 class CreateUserService {
   async execute({ name, email, admin }: IUserRequest) {
