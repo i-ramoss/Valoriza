@@ -20,7 +20,7 @@
 
 ### Compliments registration:
 
-  - [ ] Users aren't allowed to register a compliment for themselves
+  - [x] Users aren't allowed to register a compliment for themselves
 
   - [ ] It isn't allowed to register compliments for invalid users
 
