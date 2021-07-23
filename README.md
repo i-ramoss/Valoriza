@@ -11,9 +11,9 @@
 
 - Tag registration:
   
-  [ ] It isn't allowed to register more than one tag with the same name
+  [x] It isn't allowed to register more than one tag with the same name
 
-  [ ] It isn't allowed to register an unnamed tag.
+  [x] It isn't allowed to register an unnamed tag.
   
   [ ] Registration by users who aren't administrators is not allowed
 
