@@ -15,14 +15,14 @@
 
   - [x] It isn't allowed to register an unnamed tag.
 
-  - [ ] Registration by users who aren't administrators is not allowed
+  - [x] Registration by users who aren't administrators is not allowed
 
 
 ### Compliments registration:
 
   - [x] Users aren't allowed to register a compliment for themselves
 
-  - [ ] It isn't allowed to register compliments for invalid users
+  - [x] It isn't allowed to register compliments for invalid users
 
-  - [ ] The user must be authenticated in the application
+  - [x] The user must be authenticated in the application
 
